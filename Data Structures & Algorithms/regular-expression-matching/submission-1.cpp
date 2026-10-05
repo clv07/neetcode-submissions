@@ -1,7 +1,3 @@
-// Data Structure
-// 1. remember previous alphabet, so that when encountered wildcard * can verify
-// 
-
 class Solution {
 public:
     bool isMatch(string s, string p) {
